@@ -104,7 +104,7 @@ body {
   
 
 @media (max-width:530) {
-    .img img {
+    img {
       position: relative;
       display: none;
     }
